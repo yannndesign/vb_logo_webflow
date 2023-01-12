@@ -14,7 +14,7 @@ createCanvas(windowWidth, windowWidth*0.55).parent('p52');
   third= createVector(0, 0);
 
   font1 = loadFont('https://yannndesign.github.io/vb_logo_webflow/assets/EduDiatypeSemi-Mono-Regular.otf');
-  font2 = loadFont('https://yannndesign.github.io/vb_logo_webflow/assets/EduDiatypeSemi-Mono-Regular.otf');
+  font2 = loadFont('https://yannndesign.github.io/vb_logo_webflow/assets/AvenirNextLTPro-Demi.otf');
 }
 
 function draw() {
